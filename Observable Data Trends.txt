@@ -1,0 +1,7 @@
+*Three observable trends based on the data.
+
+1.Females have a lower purchase count, but are spending an average of $0.40 more per individual than the males. Additionally feamles spend $0.20 more on the average purchase prices than the males. 
+
+2.Ages 20-24 have the highest player count, therefore are creating the hightest amount of purchases. 
+
+3.Of the 3 most popular age groups, ages 20-24 also pay the most per person.
